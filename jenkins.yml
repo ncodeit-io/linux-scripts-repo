@@ -1,0 +1,5 @@
+---
+- hosts: ncapp3prd3
+  become: yes
+  roles:
+  - lean_delivery.jenkins
