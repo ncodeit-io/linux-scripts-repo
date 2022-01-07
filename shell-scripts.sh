@@ -1,4 +1,4 @@
-ing google.com
+ping google.com
 ping ncodeit.com
 ping gitlab.com
 df -k 
