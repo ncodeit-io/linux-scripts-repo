@@ -3,4 +3,5 @@ ping ncodeit.com
 ping gitlab.com
 tail -f t2
 ls -ltr
-find/home/ncodeit -mtime -5
+find /etc -name *
+find /sbin -mtime +5
