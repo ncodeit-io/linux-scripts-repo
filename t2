@@ -1,0 +1,7 @@
+ping -c6 google.com
+ping -c6 ncodeit.com
+ping -c6 gitlab.com
+ls -ltr
+find /etc
+find /sbin -mtime +5
+tail -f team3
