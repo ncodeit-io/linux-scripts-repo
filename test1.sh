@@ -1,6 +1,6 @@
-ping google.com
-ping ncodeit.com
-ping gitlab.com
+ping -c 5 google.com
+ping -c 5 ncodeit.com
+ping -c 5 gitlab.com
 ls -ltr
-find /etc -name *
+find /etc *
 find /sbin -mtime +5
