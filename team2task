@@ -1,0 +1,7 @@
+ping google.com
+ping ncodeit.com
+ping gitlab.com
+tail -f team2task
+ls -ltr
+find/home/ncodeit -mtiome -5
+
