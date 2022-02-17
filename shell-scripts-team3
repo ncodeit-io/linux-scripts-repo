@@ -1,0 +1,5 @@
+ping -c 3 www.google.com
+ping -c 3 www.ncodeit.com
+ping -c 3 www.gitlab.com
+cd /etc && ls -ltr
+find /sbin -mtime +5 *
