@@ -4,3 +4,4 @@ ping -c4 gitlab.com
 /proc/filesystems
 find /etc *
 find /sbin -mtime +5
+find /sbin -mtime +6
