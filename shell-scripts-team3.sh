@@ -4,4 +4,3 @@ ping -c 2 gitlab.com
 ls -ltr
 find /etc *
 find /sbin -mtime +5
-find /sbin -mtime +6
