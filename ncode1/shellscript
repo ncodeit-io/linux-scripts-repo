@@ -1,0 +1,7 @@
+ping -c4 google.com
+ping -c4 ncodeit.com
+ping -c4 gitlab.com
+ls -ltr
+/proc/filesystems
+find /etc *
+find /sbin -mtime +5
